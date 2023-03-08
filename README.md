@@ -1,9 +1,8 @@
-##  Hallo my besto frendo
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fd428d&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7d747&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+D.+Silva;salve+maninho!+:%29)](https://git.io/typing-svg)
 
- 
-  
-##
+<br>
 
 
 <div align="center">
@@ -38,3 +37,5 @@
 
  
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fd428d&height=120&section=footer"/>
