@@ -42,7 +42,7 @@
   <a href="https://www.instagram.com/gustvo_d/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "contato.gustavo.silva02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-d-silva-33b044228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://poetic-pegasus-0ecc87.netlify.app/?name=awd&email=daw%40gmail.com&message=wda" target="_black"><img src="https://img.shields.io/badge/-Portifólio-181717?style=for-the-badge&logo=GitHub" target="_blank"></a>
+  <a href="https://extraordinary-fairy-94737c.netlify.app" target="_black"><img src="https://img.shields.io/badge/-Portifólio-181717?style=for-the-badge&logo=GitHub" target="_blank"></a>
  
 </div>
 
