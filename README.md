@@ -2,7 +2,7 @@
 
 <h1 align="center">Olá, eu sou <span style="color:#fd428d;">Gustavo D. Silva</span></h1>
 <p align="center">
-  <em>Full Stack Developer | Ex-Estudante da Fatec</em>
+  <em>Full Stack Developer | Cursando a 2x Faculdade #fatec/em>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7d747&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gustavo+D.+Silva;Salve+maninho!+😄)](https://git.io/typing-svg)
