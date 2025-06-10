@@ -66,7 +66,7 @@ Apaixonado por tecnologia, inovação e aprendizado contínuo. Sempre em busca d
 ## 🌐 Meu Portfólio  
 
 <div align="center">
-  <a href="https://extraordinary-fairy-94737c.netlify.app" target="_blank">
+  <a href="https://poetic-pegasus-0ecc87.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-%23FF4081?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfólio" width="250"/>
   </a>
 </div>
