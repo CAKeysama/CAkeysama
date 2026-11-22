@@ -1,86 +1,49 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fd428d&height=120&section=header" alt="Header"/>
-
-<h1 align="center">Olá, eu sou <span style="color:#fd428d;">Gustavo D. Silva</span></h1>
-<p align="center">
-  <em>Full Stack Developer | Cursando a 2x Faculdade #fatec</em>
-</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7d747&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gustavo+D.+Silva;Salve+maninho!+😄)](https://git.io/typing-svg)
-
-<br />
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CAkeysama&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAkeysama&layout=compact&langs_count=7&theme=radical" alt="Top Langs"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img alt="Gustavo D. Silva, Full Stack Developer. Crio apps para web, desktop e mobile: do banco de dados ao último pixel." src="assets/hero-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
+  <img alt="Sobre mim: Full Stack Developer, estudante na Fatec, construindo Prancha, Ultra Loot e ReTool com TypeScript, Rust, Dart e Java." src="assets/about-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Linguagens que uso hoje: TypeScript 47%, Dart 18%, Rust 18%, Java 6%, HTML e CSS 5% e outras 6%." src="assets/stack-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-projects-dark.svg">
+  <img alt="Projetos: coisas que eu construí" src="assets/section-projects-light.svg" width="100%">
+</picture>
+
+<a href="https://github.com/CAKeysama/prancha"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-prancha-dark.svg"><img alt="Prancha: leitor e organizador de quadrinhos e mangás para Windows, feito com Rust, Tauri e React." src="assets/project-prancha-light.svg" width="49%"></picture></a>
+<a href="https://github.com/CAKeysama/DevDrop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-devdrop-dark.svg"><img alt="DevDrop: canivete suíço web com formatadores, geradores e utilitários." src="assets/project-devdrop-light.svg" width="49%"></picture></a>
+<a href="https://github.com/CAKeysama/Ultra-loot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ultraloot-dark.svg"><img alt="Ultra Loot: mod de Minecraft para NeoForge 1.21 com máquinas que geram loot." src="assets/project-ultraloot-light.svg" width="49%"></picture></a>
+<a href="https://github.com/CAKeysama/ReTool"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-retool-dark.svg"><img alt="ReTool: gestão de ferramentaria e reuso de peças, Fatec Matão e Baldan." src="assets/project-retool-light.svg" width="49%"></picture></a>
+
+<sub>Também: <a href="https://github.com/CAKeysama/Retool-mobile">ReTool Mobile</a> (Flutter) · <a href="https://eletrica-sabia.vercel.app">Elétrica Sábia</a> (site institucional) · <a href="https://devdrop-ten.vercel.app">DevDrop ao vivo</a> · <a href="https://prancha-beta.vercel.app">site do Prancha</a></sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-activity-dark.svg">
+  <img alt="Atividade: um ano de commits" src="assets/section-activity-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CAKeysama/CAkeysama/output/github-snake-dark.svg">
+  <img alt="Gráfico de contribuições do último ano sendo percorrido por uma cobrinha." src="https://raw.githubusercontent.com/CAKeysama/CAkeysama/output/github-snake.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg">
+  <img alt="Tem uma ideia? Bora tirar do papel." src="assets/contact-light.svg" width="100%">
+</picture>
+
+<a href="https://www.linkedin.com/in/gustavo-d-silva-33b044228/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img alt="LinkedIn" src="assets/btn-linkedin-light.svg" height="72"></picture></a>
+<a href="https://www.instagram.com/gustvo_d/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-instagram-dark.svg"><img alt="Instagram" src="assets/btn-instagram-light.svg" height="72"></picture></a>
+<a href="mailto:contato.gustavo.silva02@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img alt="E-mail" src="assets/btn-email-light.svg" height="72"></picture></a>
+
 </div>
-
-<br />
-
-## Sobre Mim
-
-- **Idade:** 20 anos  
-- **Formação:** Ex-Estudante da Fatec  
-- **Área de Atuação:** Full Stack Developer  
-
-Apaixonado por tecnologia, inovação e aprendizado contínuo. Sempre em busca de soluções modernas e eficientes, com foco na qualidade e em boas práticas de desenvolvimento.
-
-<br />
-
-## Habilidades Técnicas
-
-<div align="center">
-  <img alt="JavaScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img alt="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="React" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Node.js" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Vite" height="50" src="https://vitejs.dev/logo.svg" />
-  <img alt="Supabase" height="50" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" />
-  <img alt="HTML5" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img alt="Bootstrap" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img alt="C#" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img alt=".NET Core" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img alt="Figma" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img alt="VS Code" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img alt="GitHub" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</div>
-
-<br />
-
-## Conecte-se Comigo
-
-<div align="center">
-  <a href="https://www.instagram.com/gustvo_d/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:contato.gustavo.silva02@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gustavo-d-silva-33b044228/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
-<br />
-
-## 🌐 Meu Portfólio  
-
-<div align="center">
-  <a href="https://poetic-pegasus-0ecc87.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-%23FF4081?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfólio" width="250"/>
-  </a>
-</div>
-
-<br />
-
-## O Futuro 🚀
-
-Estou sempre em busca de novos desafios e oportunidades para criar projetos inovadores e impactantes. Se você tem uma ideia ou projeto que deseja desenvolver, entre em contato e vamos transformá-la em realidade!
-
-<br />
-
-<div align="center">
-  <img width="100%" src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" alt="Tecnologia e Código"/>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fd428d&height=120&section=footer" alt="Footer"/>

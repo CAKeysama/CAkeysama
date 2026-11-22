@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="147" height="72" viewBox="0 0 147 72" role="img" aria-labelledby="t">
+<title id="t">LinkedIn</title>
+<style>
+.g{font-family:'Gx',-apple-system,BlinkMacSystemFont,'SF Pro Text','Segoe UI',system-ui,sans-serif}
+.b{font-family:'Bx','Gx',-apple-system,'SF Pro Display','Segoe UI',system-ui,sans-serif}
+.m{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.rise{animation:rise .9s cubic-bezier(0.23,1,0.32,1) backwards}
+@keyframes rise{from{opacity:0;transform:translateY(14px);filter:blur(6px)}}
+.fade{animation:fade .8s cubic-bezier(0.23,1,0.32,1) backwards}
+@keyframes fade{from{opacity:0}}
+.caret{animation:caret 1.1s steps(1,end) infinite}
+@keyframes caret{50%{opacity:0}}
+.bob{animation:bob 4.8s cubic-bezier(0.77,0,0.175,1) infinite alternate;transform-box:fill-box;transform-origin:center}
+@keyframes bob{to{transform:translateY(-10px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.rm-show{opacity:1!important}.rm-hide{opacity:0!important}}</style>
+<defs><filter id="sh1" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="#0a1b33" flood-opacity="0.045"/><feDropShadow dx="0" dy="10" stdDeviation="11" flood-color="#0a1b33" flood-opacity="0.09"/></filter></defs>
+<g class="fade"><rect x="8" y="6" width="131" height="48" rx="24" fill="#0a152d" stroke="#0a152d" filter="url(#sh1)"/>
+<g class="" fill="#ffffff" transform="translate(30.00 35.5) scale(0.01500 -0.01500)"><path transform="translate(0 0)" d="M80 0L80 710L210 710L210 40L139 113L547 113L547 0Z"/><path transform="translate(548 0)" d="M70 0L70 534L198 534L198 0ZM68 605L68 719L201 719L201 605Z"/><path transform="translate(823 0)" d="M70 0L70 534L186 534L191 384L176 390Q184 446 209 480Q234 514 270 530Q306 546 349 546Q408 546 449 520Q489 494 510 449Q531 403 531 343L531 0L403 0L403 302Q403 347 394 378Q385 409 365 426Q344 442 310 442Q259 442 229 406Q198 370 198 302L198 0Z"/><path transform="translate(1418 0)" d="M70 0L70 710L198 710L198 293L417 534L575 534L366 312L582 0L438 0L282 236L198 147L198 0Z"/><path transform="translate(2000 0)" d="M301 -12Q221 -12 162 23Q103 57 71 120Q39 183 39 267Q39 351 71 414Q103 476 162 511Q220 546 298 546Q374 546 432 512Q489 478 520 414Q551 350 551 260L551 231L172 231Q176 161 211 126Q245 90 302 90Q345 90 374 110Q402 129 413 164L544 156Q522 78 458 33Q393 -12 301 -12ZM172 317L419 317Q415 382 382 414Q349 445 298 445Q247 445 214 412Q180 379 172 317Z"/><path transform="translate(2580 0)" d="M260 -12Q192 -12 143 22Q93 56 66 119Q39 182 39 267Q39 352 66 415Q93 478 143 512Q193 546 260 546Q316 546 359 523Q401 500 423 458L423 710L551 710L551 0L429 0L426 79Q404 36 360 12Q316 -12 260 -12ZM299 92Q339 92 367 112Q394 132 409 172Q423 211 423 267Q423 324 409 363Q394 402 367 422Q339 442 299 442Q241 442 207 396Q172 349 172 267Q172 187 207 140Q241 92 299 92Z"/><path transform="translate(3185 0)" d="M80 0L80 710L210 710L210 0Z"/><path transform="translate(3481 0)" d="M70 0L70 534L186 534L191 384L176 390Q184 446 209 480Q234 514 270 530Q306 546 349 546Q408 546 449 520Q489 494 510 449Q531 403 531 343L531 0L403 0L403 302Q403 347 394 378Q385 409 365 426Q344 442 310 442Q259 442 229 406Q198 370 198 302L198 0Z"/></g>
+<path d="M103.23599999999999 34 L113.23599999999999 24 M106.23599999999999 24 H113.23599999999999 V31" fill="none" stroke="#ffffff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>
