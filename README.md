@@ -33,8 +33,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CAKeysama/CAkeysama/raw/output/github-snake-dark.svg">
-  <img alt="Gráfico de contribuições do último ano sendo percorrido por uma cobrinha." src="https://github.com/CAKeysama/CAkeysama/raw/output/github-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CAKeysama/CAkeysama/output/github-snake-dark.svg">
+  <img alt="Gráfico de contribuições do último ano sendo percorrido por uma cobrinha." src="https://raw.githubusercontent.com/CAKeysama/CAkeysama/output/github-snake.svg" width="100%">
 </picture>
 
 <picture>
